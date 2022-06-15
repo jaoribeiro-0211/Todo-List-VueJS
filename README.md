@@ -1,4 +1,4 @@
-# curso-vue-3
+# Todo List Vue3
 
 ## Project setup
 ```
@@ -20,5 +20,10 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Json Server
+
+1 - Execute ```cd api``` para acessar a pasta da api.
+
+2 - Execute ```npx json-server --watch database.json``` para inicializar o servidor.
+
+
